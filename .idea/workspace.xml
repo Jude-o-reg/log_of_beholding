@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea926a00-5bba-4b2d-9bc6-618cf7ebc47c" name="Changes" comment="initial commit">
+    <list default="true" id="ea926a00-5bba-4b2d-9bc6-618cf7ebc47c" name="Changes" comment="added GUI elements using PySimpleGui allowing for easier use">
+      <change beforePath="$PROJECT_DIR$/.idea/LogOfBeholding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LogOfBeholding.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Jude-o-reg"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jude-o-reg&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Jude-o-reg/log_of_beholding.git",
-    "accountId": "e99eb69a-e2ae-48ac-a9bb-dc8d8cd4854f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jude-o-reg/log_of_beholding.git&quot;,
+    &quot;accountId&quot;: &quot;e99eb69a-e2ae-48ac-a9bb-dc8d8cd4854f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,18 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.LogOfBeholding.executor": "Run",
-    "Python.json_formatter.executor": "Run",
-    "Python.json_test.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.rules_json_finder.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.LogOfBeholding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_formatter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rules_json_finder.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,11 +83,20 @@
       <option name="project" value="LOCAL" />
       <updated>1789397528004</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added GUI elements using PySimpleGui allowing for easier use">
+      <option name="closed" value="true" />
+      <created>1789399877201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789399877201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added GUI elements using PySimpleGui allowing for easier use" />
+    <option name="LAST_COMMIT_MESSAGE" value="added GUI elements using PySimpleGui allowing for easier use" />
   </component>
 </project>
